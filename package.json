@@ -8,7 +8,7 @@
   "contributors": [
     "Marcelo Lv Cabral <marcelo@lvcabral.com>"
   ],
-  "version": "1.3.7",
+  "version": "1.3.8",
   "keywords": [
     "graphics",
     "fonts",
@@ -45,7 +45,8 @@
     "mocha": "^10.7.3"
   },
   "files": [
-    "dist"
+    "dist",
+    "types"
   ],
   "sideEffects": false
 }
