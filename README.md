@@ -5,14 +5,14 @@ This fork contains a light-weight version of `opentype.js` that only parses Open
 ## Installation
 
 ```sh
-npm install opentype-parser
+npm install @lvcabral/opentype.js
 ```
 
 ## Usage
 
 ```js
 import { readFileSync } from 'fs';
-import { parse } from 'opentype-parser';
+import { parse } from '@lvcabral/opentype.js';
 
 const data = readFileSync('./test/fonts/Roboto-Black.ttf');
 const font = parse(data);

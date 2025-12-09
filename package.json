@@ -1,5 +1,5 @@
 {
-  "name": "opentype-parser",
+  "name": "@lvcabral/opentype.js",
   "description": "OpenType.JS (font parser only)",
   "author": {
     "name": "Frederik De Bleser",
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/opentypejs/opentype.js.git"
+    "url": "git://github.com/lvcabral/opentype.js.git"
   },
   "main": "./dist/opentype.js",
   "browser": "./dist/opentype.js",
